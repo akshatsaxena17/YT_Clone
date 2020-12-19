@@ -1,0 +1,9 @@
+.app{
+    display:flex;
+}
+.hr{
+    width:60%;
+    margin-left:0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

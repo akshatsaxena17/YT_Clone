@@ -1,0 +1,16 @@
+.recommended{
+    flex:0.83;
+    background-color:rgb(250, 246, 246);
+    padding-left: 10px;;
+}
+.recommended > h2{
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top:20px;
+    font-family: "Roboto";
+}
+.recommended_area{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}

@@ -1,0 +1,44 @@
+.videocard{
+    width:280px;
+    margin-top:10px;
+    margin-left:25px;
+    margin-bottom: 10px;
+
+}
+.videocard_thumbnail{
+    width:280px;
+    height:150px;
+}
+
+.videocard_avatar{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+}
+
+.videocard_title{
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+.videocard_title > h4{
+    margin-left: 10px;
+    font-family:"Roboto";
+    margin-bottom: 0;
+    margin-top:10px
+}
+
+.videocard_info > p{
+    margin: 0px;
+    font-family:"Roboto" ;
+}
+
+.videocard_info > h4{
+    margin:0px;
+    font-family:"Roboto" ;
+}
+.videocard_info{
+    margin-top: 5px;
+    margin-left:50px;
+    color:gray;
+}
